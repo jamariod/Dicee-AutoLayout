@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2893AF7A2473296C00AA0914 /* AutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2893AF7A2473296C00AA0914 /* Dicee-AutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dicee-AutoLayout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2893AF7D2473296C00AA0914 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2893AF7F2473296C00AA0914 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2893AF812473296C00AA0914 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		2893AF712473296C00AA0914 = {
 			isa = PBXGroup;
 			children = (
-				2893AF7C2473296C00AA0914 /* AutoLayout */,
+				2893AF7C2473296C00AA0914 /* Dicee-AutoLayout */,
 				2893AF7B2473296C00AA0914 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		2893AF7B2473296C00AA0914 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2893AF7A2473296C00AA0914 /* AutoLayout.app */,
+				2893AF7A2473296C00AA0914 /* Dicee-AutoLayout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2893AF7C2473296C00AA0914 /* AutoLayout */ = {
+		2893AF7C2473296C00AA0914 /* Dicee-AutoLayout */ = {
 			isa = PBXGroup;
 			children = (
 				2893AF7D2473296C00AA0914 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				2893AF882473297500AA0914 /* LaunchScreen.storyboard */,
 				2893AF8B2473297500AA0914 /* Info.plist */,
 			);
-			path = AutoLayout;
+			path = "Dicee-AutoLayout";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2893AF792473296C00AA0914 /* AutoLayout */ = {
+		2893AF792473296C00AA0914 /* Dicee-AutoLayout */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2893AF8E2473297500AA0914 /* Build configuration list for PBXNativeTarget "AutoLayout" */;
+			buildConfigurationList = 2893AF8E2473297500AA0914 /* Build configuration list for PBXNativeTarget "Dicee-AutoLayout" */;
 			buildPhases = (
 				2893AF762473296C00AA0914 /* Sources */,
 				2893AF772473296C00AA0914 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = AutoLayout;
+			name = "Dicee-AutoLayout";
 			productName = AutoLayout;
-			productReference = 2893AF7A2473296C00AA0914 /* AutoLayout.app */;
+			productReference = 2893AF7A2473296C00AA0914 /* Dicee-AutoLayout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2893AF752473296C00AA0914 /* Build configuration list for PBXProject "AutoLayout" */;
+			buildConfigurationList = 2893AF752473296C00AA0914 /* Build configuration list for PBXProject "Dicee-AutoLayout" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2893AF792473296C00AA0914 /* AutoLayout */,
+				2893AF792473296C00AA0914 /* Dicee-AutoLayout */,
 			);
 		};
 /* End PBXProject section */
@@ -291,8 +291,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.KAYCAM.AutoLayout;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.KAYCAM.Dicee-AutoLayout";
+				PRODUCT_NAME = "Dicee-AutoLayout";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -309,8 +309,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.KAYCAM.AutoLayout;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.KAYCAM.Dicee-AutoLayout";
+				PRODUCT_NAME = "Dicee-AutoLayout";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2893AF752473296C00AA0914 /* Build configuration list for PBXProject "AutoLayout" */ = {
+		2893AF752473296C00AA0914 /* Build configuration list for PBXProject "Dicee-AutoLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2893AF8C2473297500AA0914 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2893AF8E2473297500AA0914 /* Build configuration list for PBXNativeTarget "AutoLayout" */ = {
+		2893AF8E2473297500AA0914 /* Build configuration list for PBXNativeTarget "Dicee-AutoLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2893AF8F2473297500AA0914 /* Debug */,
